@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Jupyter-Testing",
+			"path": "../Jupyter/Jupyter-Testing"
+		}
+	],
+	"settings": {}
+}
